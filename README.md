@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**mohits2806/mohits2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![mohits2806's Stats](https://github-readme-stats.vercel.app/api?username=mohits2806&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![mohits2806's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohits2806&theme=vision-friendly-dark&hide_border=false)
+![mohits2806's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohits2806&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
