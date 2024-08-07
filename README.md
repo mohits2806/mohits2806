@@ -1,15 +1,11 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+## Hi there 👋, I am Mohit Shaharwale
+- 🔭 I’m currently working on secureCrypt
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 👯 I’m looking to collaborate on Emerging Technologies
+- 🤔 I’m looking for help with my projects
+- 💬 Ask me about Web/dev, AI, ML
+- 📫 How to reach me: ![Mail me](mailto:mohitshaharwale01@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 ![mohits2806's Stats](https://github-readme-stats.vercel.app/api?username=mohits2806&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 ![mohits2806's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohits2806&theme=vision-friendly-dark&hide_border=false)
