@@ -19,7 +19,6 @@ I'm a passionate **Full Stack Developer** and **AI/ML enthusiast** currently pur
 - 🌱 Learning **Cloud Computing**, **DevOps**, and **Advanced AI/ML** techniques
 - 👯 Looking to collaborate on **innovative projects** and **open-source contributions**
 - 🎯 Goal: To become a leading **Software Architect** in the tech industry
-- ⚡ Fun fact: I've won **3 National Level Project Competitions** and mentored 200+ students!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="300"/>
