@@ -41,12 +41,6 @@ I'm a passionate **Full Stack Developer** and **AI/ML enthusiast** currently pur
 - 💻 Created responsive UIs using React's advanced hooks
 - 🔄 Implemented state management and component lifecycle optimization
 
-### 👨‍💼 **Vice Campus Organiser (Co-Lead)** | *Google Developers Groups Campus*
-**📅 September 2024 - Present**
-- 🎪 Coordinated coding competitions and hackathons for **200+ students**
-- 🎤 Led technical workshops on web development and AI/ML
-- 🏆 Guided teams to achieve top-3 positions in national competitions
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="600" height="300"/>
 </div>
