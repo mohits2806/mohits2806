@@ -193,13 +193,10 @@ I'm a passionate **Full Stack Developer** and **AI/ML enthusiast** currently pur
 - ☁️ **Cloud Computing** (AWS, GCP)
 - 🤖 **Advanced AI/ML** (Deep Learning, NLP)
 - 🚀 **DevOps** (Docker, Kubernetes)
-- 📱 **Mobile Development** (React Native)
 
 ### 🌟 **Fun Stats**
 - 💻 **200+ commits** in 2024
-- 🎓 **200+ students** mentored
 - 🏆 **15+ projects** completed
-- ⭐ **50+ GitHub stars** earned
 
 ---
 
