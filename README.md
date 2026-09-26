@@ -1,241 +1,141 @@
-# 👋 Hi there! I'm Mohit Shaharwale
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineer;Problem+Solver;Tech+Leader" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="200"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=D4A24C&center=true&vCenter=true&width=680&lines=Mohit+Kishor+Shaharwale;Senior+Software+Engineer+%40+Arvanch+LLC;Full-Stack+Engineer+%7C+Product+Builder;Shipping+Things+That+Last" alt="Typing SVG" />
 
-> **"Turning ideas into reality through code, one commit at a time."**
+<br>
 
-I'm a passionate **Full Stack Developer** and **AI/ML enthusiast** currently pursuing my B.Tech in Electronics & Telecommunications at N.B. Navale Sinhgad College of Engineering, Solapur. With hands-on experience as a **Software Engineering Intern** at **Arvanch LLC, Chicago**, I specialize in creating user-centric digital experiences that drive results.
-
-### 🌟 Quick Facts
-- 🔭 Currently working on **AI-powered web applications** and **machine learning projects**
-- 🌱 Learning **Cloud Computing**, **DevOps**, and **Advanced AI/ML** techniques
-- 👯 Looking to collaborate on **innovative projects** and **open-source contributions**
-- 🎯 Goal: To become a leading **Software Architect** in the tech industry
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="300"/>
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Software Engineering Intern** | *Arvanch LLC, Chicago, USA (Remote)*
-**📅 June 2025 - Present**
-- 🚀 Developed full-stack applications using **React.js**, **Node.js**, and **Express.js**
-- 🔧 Built RESTful APIs improving system interoperability by **25%**
-- 📈 Optimized application performance, reducing load times by **30%**
-- 🤝 Collaborated with cross-functional teams in agile development processes
-
-### 🏢 **Software Developer Intern** | *Arvanch LLC, Chicago, USA (Remote)*
-**📅 December 2024 - June 2025**
-- 🎯 Developed core components for AI-based assessment platform
-- 💻 Created responsive UIs using React's advanced hooks
-- 🔄 Implemented state management and component lifecycle optimization
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="600" height="300"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 **Programming Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css" />
-</div>
-
-### 🌐 **Frontend Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
-</div>
-
-### ⚙️ **Backend Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</div>
-
-### 🗄️ **Databases**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
-</div>
-
-### 🤖 **AI/ML & Data Science**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</div>
-
-### ☁️ **Cloud & DevOps**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,git,github,vercel,netlify" />
-</div>
-
-### 🎨 **Design & Others**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,postman,vscode" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-### 🧠 **TumorScope - AI-Powered Brain Tumor Detection**
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/mohits2806/TumorScope)
-- 🎯 **97% accuracy** in brain tumor detection using CNN
-- 🔬 Built with **TensorFlow** and **Keras**
-- 👥 Led a team of **6 developers** in hackathon
-- 🏥 Designed intuitive UI for medical professionals
-
-### 📅 **Tick Calendar - Habit Tracking PWA**
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/mohits2806/tick-calendar) [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify)](https://tick-calendar.netlify.app)
-- 📱 Fully responsive **Progressive Web App**
-- 🔥 365-day heatmap and streak statistics
-- 💾 Local storage for offline functionality
-- 📊 Monthly calendar with swipe navigation
-
-### 🔒 **secureCrypt - File Encryption System**
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=render)](https://secureCrypt.onrender.com)
-- 🛡️ **AES-256-CBC** encryption algorithm
-- 🔐 Password-protected file encryption/decryption
-- 🌐 Full-stack web application
-- 🚀 Deployed on **Render** with optimal performance
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600" height="300"/>
-</div>
-
----
-
-## 🏅 Achievements & Recognition
-
-<div align="center">
-  
-| 🏆 Achievement | 📅 Year | 🎯 Impact |
-|:---:|:---:|:---:|
-| **3x National Level Project Competition Winner** | 2023-2024 | Technical Excellence |
-| **International Contest Winner** | 2024 | Placement Competition |
-| **National Level Paper Presentation Winner** | 2024 | Research Recognition |
-| **6x National Level Hackathon Participant** | 2023-2024 | Innovation & Problem Solving |
-| **GDG Campus Lead** | 2024-Present | Community Leadership |
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohitshaharwale.netlify.app-0A1F2E?style=for-the-badge&logo=firefox&logoColor=D4A24C)](https://mohitshaharwale.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A1F2E?style=for-the-badge&logo=linkedin&logoColor=D4A24C)](https://linkedin.com/in/mohit-shaharwale)
 
 </div>
 
----
+<br>
 
-## 📜 Certifications
+## 👋 A quick word before the badges
+
+I'm Mohit — I write software, and (as of very recently) carry the "Senior" in front of my title at work. Last year's version of this README was written by a student who liked shipping things. This year's is written by someone who's been trusted to lead them.
+
+Two things are true about me:
+
+```
+> whoami
+Mohit Kishor Shaharwale — Senior Software Engineer, Arvanch LLC (Chicago, remote)
+
+> status --2026
+Grew from intern to senior engineer. Shipped several independent products along the way.
+Started calling myself an engineer instead of a coder — on purpose.
+```
+
+<br>
+
+## 🧭 Where I show up
+
+### 💼 Arvanch LLC — <i>Senior Software Engineer</i>
+US-based startup · full-time, remote-first, WFH · building **GradeMe AI**, an AI-powered EdTech grading platform. My work here has ranged from shipping the assessment UI to hardening the grading logic itself — rewriting the core scoring prompt to kill hallucinated feedback and inconsistent partial credit, and building out the API documentation clients actually rely on.
+
+<br>
+
+## 🚀 Independent products I've built and shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**☀️ SolarFlow** — [solarflow.business](https://solarflow.business)
+Customer workflow tracking for rooftop solar businesses — from lead to install to payment, in one place. Live and in use.
+
+**📄 AutoDocs** — [autodocs.co.in](https://autodocs.co.in)
+Document automation built originally for solar sales teams — quotations, proposals, and paperwork generated in minutes, not hours.
+
+</td>
+<td width="50%" valign="top">
+
+**📒 LenDen** — <i>digital khata app</i>
+A modern take on the paper ledger every small Indian shop still keeps. Built on Next.js 16, Tailwind v4, Framer Motion, and Supabase.
+
+**🎓 GradeMe AI** — <i>via Arvanch LLC</i>
+An AI grading engine designed to actually be consistent — deterministic scoring, structured partial credit, no hallucinated feedback.
+
+</td>
+</tr>
+</table>
+
+> One rule I hold every product to: **no gradients, no glassmorphism, no stock "AI" visual clichés.** Motion only when it means something. Solid, confident color. Generous whitespace. If it looks like every other SaaS landing page, I haven't finished yet.
+
+<br>
+
+## 🕯️ Building for community, not just clients
+
+I revamped **[Savji Ganpati Mandal's](https://savjiganpati.com) (SSK Shri Ganesh Puja Mandal, Solapur)** website — the same site I first built years ago as a beginner, now rebuilt from scratch on Next.js 16 with an admin CMS, PWA support with push notifications, and a full Marathi translation, so the mandal's own organizers can manage it without ever touching code.
+
+<br>
+
+## 🛠️ Tech I reach for
 
 <div align="center">
-  
-| 🎓 Certification | 🏢 Organization | 📅 Year |
-|:---:|:---:|:---:|
-| **Artificial Intelligence** | Accenture | 2024 |
-| **Career Essentials in Software Development** | Microsoft | 2024 |
-| **React.js** | HackerRank | 2024 |
-| **Python Programming** | HackerRank | 2024 |
-| **CSS3** | HackerRank | 2024 |
-| **Web Development Professional** | IMT Finance, Portugal | 2024 |
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,mongodb,postgresql,supabase,redis&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,figma,postman&theme=dark" />
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Analytics
+## 📈 The receipts
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohits2806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohits2806&layout=compact&theme=tokyonight"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohits2806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohits2806&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohits2806&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohits2806&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohits2806&theme=tokyonight&hide_border=false"/>
-</div>
+<br>
+
+## 🏆 A few things I'm proud of
+
+- 🏆 **2× International Contest Winner**
+- 🎤 **Technical Speaker** — spoken to 200+ students on engineering & career topics
+- 🧠 Built **TumorScope**, a CNN-based brain tumor detector (97% accuracy), leading a 6-person hackathon team
+- 📱 Shipped **Tick Calendar**, a habit-tracking PWA with a 365-day heatmap
+- 🔒 Built **secureCrypt**, an AES-256 file encryption tool, full-stack, deployed and live
+
+<br>
+
+## 🌱 What changed this year
+
+I stopped optimizing for "does it work" and started optimizing for "will this still make sense in six months." That shift is the whole difference between a developer and an engineer, and it's the whole reason this README needed a rewrite.
+
+<br>
+
+## 📬 Reach me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohits2806&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
 
----
-
-## 🌍 Connect With Me
-
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-shaharwale)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohits2806)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mohitshaharwale)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohit._.2806)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mohit.shaharwale)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitshaharwale01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohit.website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohitshaharwale.netlify.app)
 
-</div>
-
----
-
-## 💡 Fun Facts & Interests
-
-<div align="center">
-  
-🎮 **Gaming** | 📚 **Tech Blogging** | 🔍 **Open Source** | 📸 **Photography** | 🌱 **Learning**
-
-</div>
-
-### 🎯 **Currently Learning**
-- ☁️ **Cloud Computing** (AWS, GCP)
-- 🤖 **Advanced AI/ML** (Deep Learning, NLP)
-- 🚀 **DevOps** (Docker, Kubernetes)
-
-### 🌟 **Fun Stats**
-- 💻 **200+ commits** in 2024
-- 🏆 **15+ projects** completed
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🚀 What's Next?
-
-I'm constantly working on improving my skills and contributing to the tech community. Here's what I'm planning:
-
-- 🔬 **Building** more AI-powered applications
-- 📝 **Writing** technical blogs and tutorials
-- 🌐 **Contributing** to open-source projects
-- 🤝 **Mentoring** aspiring developers
-- 🎯 **Pursuing** advanced certifications in cloud computing
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" height="300"/>
 </div>
 
 <div align="center">
-  
-### 🌟 **"Code is poetry written in logic"** 🌟
+<sub>Building things that are still standing six months later.</sub>
 
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mohits2806&color=blue)](https://github.com/mohits2806)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=mohits2806&color=0A1F2E&style=flat-square)](https://github.com/mohits2806)
 </div>
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" height="3"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
