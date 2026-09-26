@@ -1,8 +1,8 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=D4A24C&center=true&vCenter=true&width=680&lines=Mohit+Shaharwale;Senior+Software+Engineer;Full-Stack+Engineer;Product+Builder;Shipping+Things+That+Last" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=D4A24C&center=true&vCenter=true&width=680&lines=Mohit+Kishor+Shaharwale;Senior+Software+Engineer+%40+Arvanch+LLC;Full-Stack+Engineer+%7C+Product+Builder;Shipping+Things+That+Last" alt="Typing SVG" />
 
 <br>
 
